@@ -12,5 +12,5 @@
 
 Logic:
 
-	1. Show Lesson 1 all sub category and hide other lessons
-	2. If students finish half of the contents (50%) show  the next Lesson
+	1. Show Lesson 1 only in all sub categories and hide other lessons
+	2. If students finish half of the contents (50%) in the lesson1 show Lesson2.If students finish Lesson2 50% contents , show 		    lesson3,....
